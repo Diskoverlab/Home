@@ -1,5 +1,5 @@
 ---
-title: <!--"Diskover" -->
+title: "Diskover"
 image: "logo.jpeg"
 links:
   - label: Sito web
@@ -25,3 +25,6 @@ Diskover è una startup innovativa di Data Science, specializzata in consulenza,
 ## La nostra vision
 
 Crediamo nell’innovazione e aiutiamo le aziende a riscrivere il proprio business model mettendo al centro i dati: **DISKOVER FOR INNOVATION**.
+
+
+
