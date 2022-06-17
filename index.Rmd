@@ -1,0 +1,27 @@
+---
+title: <!--"Diskover" -->
+image: "logo.jpeg"
+links:
+  - label: Sito web
+    url: "https://diskover.it/"
+  - label: Facebook
+    url: "https://www.facebook.com/diskoverdatascience"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/company/diskover-srl/"
+  - label: Instagram
+    url: "https://www.instagram.com/diskoverit/"
+  - label: Kaggle
+    url: "https://www.kaggle.com/diskover"
+  - label: Email
+    url: "mailto:r.dinisio@diskover.it"
+output:
+  postcards::trestles
+---
+
+## Chi siamo
+
+Diskover è una startup innovativa di Data Science, specializzata in consulenza, system integration e digital services, dedicata all’ideazione, progettazione e implementazione di soluzioni basate su Intelligenza Artificiale e Big Data.
+
+## La nostra vision
+
+Crediamo nell’innovazione e aiutiamo le aziende a riscrivere il proprio business model mettendo al centro i dati: **DISKOVER FOR INNOVATION**.
